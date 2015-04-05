@@ -1,0 +1,16 @@
+[
+{
+  "modid": "falsework",
+  "name": "Falsework",
+  "description": "Structural supports and happiness!",
+  "version": "0.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["downslope7"],
+  "credits": "Notch.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
